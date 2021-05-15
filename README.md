@@ -1,1 +1,1 @@
-# memory-game made with Vanilla JS
+# A simple HTML + Vanilla JS Memory Game
